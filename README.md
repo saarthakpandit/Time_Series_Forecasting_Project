@@ -6,7 +6,7 @@ This README file provides an overview of the project, instructions on how to use
 
 # **Project Overview**
 
-**Objective:** To forecast Daily Sales and predict future performance for the next 1 year.
+**Objective:** To forecast daily Alcohol Sales and predict future performance for the next 1 year.
 
 **Tools:** Microsoft Excel
 
