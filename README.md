@@ -18,9 +18,9 @@ This README file provides an overview of the project, instructions on how to use
 
 To use the Daily Sales Forecasting Excel file, follow these steps:
 
-1. Download the Excel file from the repository.
+1. Download the .xlsx file for the output and .csv file for the raw data from the repository.
 
-2. Open the Excel file using Microsoft Excel.
+2. Open the .xlsx file using Microsoft Excel.
 
 3. Ensure that the data is properly formatted, with each day's sale in a separate column.
 
