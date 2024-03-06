@@ -16,7 +16,7 @@ This README file provides an overview of the project, instructions on how to use
 
 # **Getting Started**
 
-To use the Daily Sales Forecasting Excel file, follow these steps:
+To use the Alcohol Sales Forecasting Excel file, follow these steps:
 
 1. Download the .xlsx file for the output and .csv file for the raw data from the repository.
 
@@ -28,7 +28,7 @@ To use the Daily Sales Forecasting Excel file, follow these steps:
 
 # **Results and Interpretation**
 
-The Daily Sales Forecasting Excel file provides the following outcomes:
+The Alcohol Sales Forecasting Excel file provides the following outcomes:
 
 1. Forecasted sales values for required time period based on historical data.
 
