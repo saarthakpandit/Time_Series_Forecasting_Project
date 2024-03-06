@@ -1,28 +1,37 @@
 # Time_Series_Forecasting_Project
-**Time Series Sales Forecasting Project**
-This project involves forecasting Daily Sales using Microsoft Excel. The goal is to develop an accurate and reliable forecasting model that can provide insights into future sales performance. This README file provides an overview of the project, instructions on how to use the Excel file, and information about the tools and techniques used.
 
-**Project Overview**
-Objective: To forecast Daily Sales and predict future performance for the next 1 year.
+This project involves forecasting Daily Sales using Microsoft Excel. The goal is to develop an accurate and reliable forecasting model that can provide insights into future sales performance. 
 
-Tools: Microsoft Excel
+This README file provides an overview of the project, instructions on how to use the Excel file, and information about the tools and techniques used.
 
-Dataset: Alcohol Sales.csv - https://fred.stlouisfed.org/series/S4248SM144NCEN(old
+# **Project Overview**
 
-Forecasting Technique: Forecasting sheet and forecasting formula
+**Objective:** To forecast Daily Sales and predict future performance for the next 1 year.
 
-**Getting Started**
+**Tools:** Microsoft Excel
+
+**Dataset:** Alcohol Sales.csv - https://fred.stlouisfed.org/series/S4248SM144NCEN(old
+
+**Forecasting Technique:** Forecasting sheet and forecasting formula
+
+# **Getting Started**
+
 To use the Daily Sales Forecasting Excel file, follow these steps:
 
-1.Download the Excel file from the repository.
-2.Open the Excel file using Microsoft Excel.
-3.Ensure that the data is properly formatted, with each day's sale in a separate column.
-4.The forecasting sheet will automatically generate the forecasts for the desired period.
+1. Download the Excel file from the repository.
 
-**Results and Interpretation**
+2. Open the Excel file using Microsoft Excel.
+
+3. Ensure that the data is properly formatted, with each day's sale in a separate column.
+
+4. The forecasting sheet will automatically generate the forecasts for the desired period.
+
+# **Results and Interpretation**
 
 The Daily Sales Forecasting Excel file provides the following outcomes:
 
-1.Forecasted sales values for required time period based on historical data.
-2.Graphical representation of historical sales data and trend analysis.
-3.Interpreting the results involves analyzing the forecasted values, identifying any trends or patterns, and understanding the overall performance of the forecasting.
+1. Forecasted sales values for required time period based on historical data.
+
+2. Graphical representation of historical sales data and trend analysis.
+
+3. Interpreting the results involves analyzing the forecasted values, identifying any trends or patterns, and understanding the overall performance of the forecasting.
