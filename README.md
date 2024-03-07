@@ -35,3 +35,8 @@ The Alcohol Sales Forecasting Excel file provides the following outcomes:
 2. Graphical representation of historical sales data and trend analysis.
 
 3. Interpreting the results involves analyzing the forecasted values, identifying any trends or patterns, and understanding the overall performance of the forecasting.
+
+# Contributors
+1. Sarthak Pandit
+
+2. Sharwari Potdar
